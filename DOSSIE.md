@@ -12,7 +12,7 @@
 ## 1. Status Atual
 
 ### Git
-- **Status:** Sem repositório Git
+- **Status:** Repo Git criado: hlobeu/closetfy-vertical
 - **Arquivos na raiz:** 2
 - **Status:** Projeto em estágio inicial (piloto, sem código versionado)
 
